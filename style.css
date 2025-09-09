@@ -1,9 +1,14 @@
 head {
-text-align: center;
-color: brown;
+background-color: brown;
 }
 
 body {
-background-color:blue ;
-color: goldenrod;
+background-color:red ;
+}
+
+title {
+text-align: center;
+}
+h1 {
+text-align: center;
 }
