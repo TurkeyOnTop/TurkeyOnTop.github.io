@@ -26,3 +26,8 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
 }
+
+li a:hover {
+  background-color: black;
+  color: white;
+}
