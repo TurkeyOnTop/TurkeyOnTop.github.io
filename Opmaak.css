@@ -12,6 +12,14 @@ text-align: center;
 color: red;
 }
 
+p {
+background-color: blue;
+border:black;
+border-style: dashed;
+margin: ;
+padding-right: 0px;
+}
+
 ul {
 list-style-type: none;
 margin: 0;
