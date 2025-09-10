@@ -40,3 +40,8 @@ li a:hover {
   background-color: black;
   color: white;
 }
+
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
