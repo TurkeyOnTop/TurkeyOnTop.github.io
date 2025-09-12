@@ -18,7 +18,8 @@ p {
 background-color: blue;
 border:black;
 text-align: center;
-padding-bottom: px;
+padding-bottom: 5px;
+padding-top: 5px;
 padding-right: 0px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifc;
 }
