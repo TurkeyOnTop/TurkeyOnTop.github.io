@@ -36,7 +36,16 @@ font-size: 20px;
 font-family: 'Times New Roman', Times, serif
 }
  
-.game-container iframe {
+  .game-container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .game-container iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -44,6 +53,7 @@ font-family: 'Times New Roman', Times, serif
     height: 100%;
     border: none;
   }
+
 
 ul {
   list-style-type: none;
