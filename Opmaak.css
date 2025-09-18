@@ -1,4 +1,8 @@
 body {
+background-color: goldenrod;
+}
+
+body #2 {
   background-image: url('Flag_of_Turkey.svg.webp');
   background-size: cover;
   background-repeat: no-repeat;
