@@ -2,7 +2,7 @@ body {
 background-color: goldenrod;
 }
 
-about-me {  
+.about-me {  
   background-image: url('Flag_of_Turkey.svg.webp');
   background-size: cover;
   background-repeat: no-repeat;
@@ -36,7 +36,7 @@ font-size: 20px;
 font-family: 'Times New Roman', Times, serif
 }
  
-game-container iframe {
+.game-container iframe {
     position: absolute;
     top: 0;
     left: 0;
