@@ -2,7 +2,7 @@ body {
 background-color: goldenrod;
 }
 
-#body2 {
+.about-me {  
   background-image: url('Flag_of_Turkey.svg.webp');
   background-size: cover;
   background-repeat: no-repeat;
