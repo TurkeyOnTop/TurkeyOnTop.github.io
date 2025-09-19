@@ -3,11 +3,11 @@ background-color: goldenrod;
 }
 
 .about-me {  
-  background-image: url('Flag_of_Turkey.svg.webp');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 100vh;
+background-image: url('Flag_of_Turkey.svg.webp');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 100vh;
 }
 
 title {
@@ -43,23 +43,23 @@ font-size: 30px;
 font-family: 'Times New Roman', Times, serif
 }
  
-  .game-container {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
+.game-container {
+position: relative;
+width: 100%;
+height: 100vh;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
 
-  .game-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: none;
-  }
+.game-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: none;
+}
 
 
 ul {
