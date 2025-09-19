@@ -22,13 +22,20 @@ font-size: 50px;
 font-family: 'Times New Roman', Times, serif
 }
 
+.pme {
+text-align: center;
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif
+}
+
+
 p {
 background-color: purple;
 border:black;
 p.solid {border-style: solid;}
 text-align: center;
-padding-bottom: 5px;
-padding-top: 5px;
+padding-bottom: 10px;
+padding-top: 10px;
 padding-right: 0px;
 padding-left: 0px;
 margin: 0px;
