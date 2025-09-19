@@ -63,20 +63,20 @@ border: none;
 
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  background-color: black;
-  display: flex;
+list-style-type: none;
+margin: 0;
+padding: 0;
+background-color: black;
+display: flex;
 }
 
 ul li a {
-  display: block;
-  color: white;
-  padding: 16px 14px;
-  text-decoration: none;
+display: block;
+color: white;
+padding: 16px 14px;
+text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: #8f7373b7;
+background-color: #8f7373b7;
 }
