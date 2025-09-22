@@ -19,13 +19,13 @@ h1 {
 text-align: center;
 color:black;
 font-size: 50px;
-font-family: 'Times New Roman', Times, serif
+font-family: 'Times New Roman', Times, serif;
 }
 
 .p-me {
 text-align: center;
 font-size: 30px;
-font-family: 'Times New Roman', Times, serif
+font-family: 'Times New Roman', Times, serif;
 }
 
 p {
@@ -39,7 +39,7 @@ padding-right: 0px;
 padding-left: 0px;
 margin: 0px;
 font-size: 30px;
-font-family: 'Times New Roman', Times, serif
+font-family: 'Times New Roman', Times, serif;
 }
  
 .game-container {
