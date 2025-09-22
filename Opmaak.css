@@ -23,10 +23,8 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 .p-me {
-text-align: center;
-font-size: 30px;
-font-family: 'Times New Roman', Times, serif;
 background: none;
+border: none;
 }
 
 p.solid {border-style: solid;}
