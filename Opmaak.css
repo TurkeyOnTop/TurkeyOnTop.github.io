@@ -65,7 +65,7 @@ border: none;
 ul {
 list-style-type: none;
 margin: 0;
-padding: 0;
+padding: 10;
 background-color: black;
 display: flex;
 }
