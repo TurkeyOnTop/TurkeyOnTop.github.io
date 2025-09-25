@@ -80,3 +80,11 @@ text-decoration: none;
 ul li a:hover {
 background-color: #8f7373b7;
 }
+
+#Pimmetje {
+    background-image: ;
+    background-size: cover;
+    background-position; center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
