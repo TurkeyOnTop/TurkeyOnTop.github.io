@@ -72,10 +72,10 @@ ul li a:hover {
 background-color: #8f7373b7;
 }
 
-#Pimmetje {
-    background-image: url('plaatjes/csm_Sam_Jost_Folge_03_Teaser_alternative_e9ef473b9b.jpg');
-    background-size: cover;
-    background-position; center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+#Kleurmodellen {
+background-image: url('plaatjes/csm_Sam_Jost_Folge_03_Teaser_alternative_e9ef473b9b.jpg');
+background-size: cover;
+background-position; center;
+background-repeat: no-repeat;
+background-attachment: fixed;
 }
