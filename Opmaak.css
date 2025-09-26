@@ -2,7 +2,7 @@ body {
 background-color: goldenrod;
 }
 
-#about-me {  
+.about-me {  
 background-image: url('plaatjes/Flag_of_Turkey.svg.webp');
 background-size: cover;
 background-repeat: no-repeat;
@@ -22,7 +22,7 @@ font-size: 50px;
 font-family: 'Times New Roman', Times, serif;
 }
 
-#p-me {
+.p-me {
 background: none;
 border: none;
 color:rgb(214, 161, 28) ;
