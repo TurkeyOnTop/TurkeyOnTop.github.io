@@ -78,3 +78,11 @@ background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
 }
+
+#Compressie {
+background-image: url('plaatje/');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
