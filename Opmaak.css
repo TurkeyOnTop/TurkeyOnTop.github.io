@@ -69,7 +69,8 @@ background-attachment: fixed;
 #binaire-compressie-header {
 color: white;
 background-color: black; 
-width:50%;
+width:25%;
+margin: auto;
 }
 
 #Kleurmodellen {
