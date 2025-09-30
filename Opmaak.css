@@ -1,17 +1,15 @@
 body {
-background-color: goldenrod;
+background-color: goldenrod; /*achtergrondkleur*/
 } 
 
 h1 {
 text-align: center; /*zorgt ervoor dat h1 tekst in midden komt*/
-color:black;
 font-size: 50px; /*dit verandert de grote lettertype*/
-font-family: 'Times New Roman', Times, serif;
+font-family: 'Times New Roman', Times, serif; /*dit is de style van de lettertype*/
 }
 
 p {
 background-color: purple;
-border:black;
 text-align: center;
 padding: 10px 0;
 margin: 0;
