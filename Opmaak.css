@@ -21,10 +21,11 @@ ul {
 margin: 0;
 padding: 0;
 background-color: black;
-display: flex;
+display: flex; /*zonder deze code komen de tabs in het menu niet achter elkaar, maar onder elkaar*/
 }
 
 ul li a {
+list-style-type: none;
 display: block; /*zorgt ervoor dat het menuutje een blokje wordt*/
 color: white;
 padding: 16px 14px;
@@ -53,7 +54,7 @@ background-image: url('plaatjes/15048058263_05c06bf2fd_z.webp');
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
-background-attachment: fixed;
+background-attachment: fixed; /*zorgt ervoor dat de afbeelding vast blijft en niet mee scrolt*/
 }
 
 #binaire-compressie-header {
