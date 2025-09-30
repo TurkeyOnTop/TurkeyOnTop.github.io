@@ -21,30 +21,29 @@ ul {
 margin: 0;
 padding: 0;
 background-color: black;
+display: flex;
 }
 
 ul li a {
-display: block;
+display: block; /*zorgt ervoor dat het menuutje een blokje wordt*/
 color: white;
 padding: 16px 14px;
-text-decoration: none;
 }
 
 ul li a:hover {
-background-color: #8f7373b7;
+background-color: #8f7373b7; /*zorgt ervoor dat als je over een tab menuutje hovert je deze kleur krijgt*/
 }
 
 #about-me {  
-background-image: url('plaatjes/Flag_of_Turkey.svg.webp');
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-height: 100vh;
+background-image: url('plaatjes/Flag_of_Turkey.svg.webp'); /*plaatje op pagina*/
+background-size: cover; /*hij neemt de hele pagina over kwa groote*/
+background-repeat: no-repeat; /*zorgt ervoor dat die afbeelding zich niet herhaalt op de pagina*/
+background-position: center; /*de plaatje komt zo in het midden terecht*/
+height: 100vh; /*zorgt ervoor dat de afbeelding precies net zo hoog is als mijn scherm dus zo zie je de hele afbeelding*/
 }
 
 #p-me-compressie {
-background: none;
-border: none;
+background: none; /*zo gaat de paarse background van p weg*/
 color:rgb(255, 183, 0) ;
 font-size: 40px;
 }
