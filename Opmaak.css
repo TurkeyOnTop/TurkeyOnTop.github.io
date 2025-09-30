@@ -70,7 +70,7 @@ background-color: aqua;
 }
 
 #IVU-afbeelding {
-float: left;
+float: left; /*zorgt ervoor dat afbeelding aan linker kant van scherm komt*/
 }
 
 #Kleurmodellen {
