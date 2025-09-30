@@ -9,15 +9,13 @@ font-family: 'Times New Roman', Times, serif; /*dit is de style van de lettertyp
 }
 
 p {
-background-color: purple;
-text-align: center;
-padding: 10px 0;
-margin: 0;
+background-color: purple; 
+text-align: center; 
+padding: 10px 0; /*maakt ruimte in het element*/
+margin: 0; /*maakt ruimte buiten het element*/
 font-size: 30px;
 font-family: 'Times New Roman', Times, serif;
 }
-
-p.solid {border-style: solid;}
 
 ul {
 list-style-type: none;
