@@ -60,9 +60,9 @@ background-attachment: fixed; /*zorgt ervoor dat de afbeelding vast blijft en ni
 #binaire-compressie-header {
 color: white;
 background-color: black; 
-width:40%;
-margin: auto;
-margin-top: 10px;
+width:40%; /*zorgt ervoor dat die background collor wijder wordt of korter*/
+margin: auto; /*zorgt ervoor dat rechts en links margin evenveel is en dat het dus centreerd*/
+margin-top: 10px; /*verandert alleen de bovenste margin*/
 }
 
 #IVU {
@@ -79,7 +79,7 @@ background-attachment: fixed;
 
 #p-kleurmodellen {
 background: none;
-text-align: left;
+text-align: left; /*zo komt de tekst links te staan*/
 }
 
 #Compressie {
