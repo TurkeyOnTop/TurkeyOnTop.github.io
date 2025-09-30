@@ -95,5 +95,5 @@ background-attachment: fixed;
 }
 
 #compression-afbeelding {
-float: left;
+display: block;
 }
