@@ -82,6 +82,11 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 }
 
+#p-kleurmodellen {
+background-color: none;
+text-align: left;
+}
+
 #Compressie {
 background-image: url('plaatjes/what-is-file-compression.jpg');
 background-size: cover;
