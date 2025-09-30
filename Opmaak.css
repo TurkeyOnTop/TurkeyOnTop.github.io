@@ -29,6 +29,7 @@ ul li a {
 display: block; /*zorgt ervoor dat het menuutje een blokje wordt*/
 color: white;
 padding: 16px 14px;
+text-decoration: none; /*deze code zorgt ervoor dat de tekst in het tab menuutje geen streepjes eronder krijgt*/
 }
 
 ul li a:hover {
